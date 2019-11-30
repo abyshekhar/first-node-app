@@ -1,0 +1,22 @@
+{
+  "name": "NodeAPIDemo",
+  "version": "0.0.0",
+  "description": "<Description about your application>",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "msnodesqlv8": "^0.8.6",
+    "mssql": "^6.0.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": {
+    "name": "<Your Name>",
+    "email": "abyshekhar@gmail.com"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
