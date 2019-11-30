@@ -10,7 +10,7 @@
     "mssql": "^6.0.1"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": {
     "name": "<Your Name>",
